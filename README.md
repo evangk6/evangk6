@@ -1,6 +1,6 @@
 # Evan Kountouris
 
-Principal Software Engineer with 10+ years of experience designing and building enterprise applications, distributed systems, and developer platforms.
+Principal Software Engineer with 10+ years of experience designing and building enterprise applications, distributed systems, and developer platforms. My background also includes bioinformatics research and scientific computing, combining my education in computer science and biology with experience analyzing complex biological data.
 
 I enjoy solving challenging technical problems, exploring new technologies, contributing to open source, and turning innovative ideas into production-ready software.
 
@@ -9,6 +9,7 @@ I enjoy solving challenging technical problems, exploring new technologies, cont
 - Built enterprise developer platforms supporting software governance, operational data management, and innovation workflows.
 - Took innovative projects from prototype to production, including an accessibility tool delivered in approximately two months and subsequently released through FINOS.
 - Inventor on four patent applications, including innovations in computer vision and document processing.
+- Applied computational biology and data analysis techniques to HLA sequencing and haplotype research, supporting high-resolution genetic analysis.
 
 ### Open Source & Projects
 
@@ -25,4 +26,4 @@ I enjoy solving challenging technical problems, exploring new technologies, cont
 **Data & Messaging:** PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, Elasticsearch  
 **Cloud & Infrastructure:** AWS, Kubernetes, Docker, OpenShift  
 **DevOps & Tooling:** Jenkins, GitHub Actions, GitLab, CI/CD, Datadog, CloudWatch  
-**Engineering:** Distributed Systems, System Design, Software Architecture, Developer Platforms, Observability, Software Governance  
+**Engineering:** Distributed Systems, System Design, Software Architecture, Developer Platforms, Observability, Software Governance  **Scientific Computing:** Bioinformatics, Data Analysis, Python Scientific Libraries
