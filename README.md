@@ -6,6 +6,13 @@ I have 10+ years of experience solving complex software engineering problems acr
 
 I enjoy working on challenging problems, learning new technologies, and building software that has a meaningful impact.
 
+### Selected Highlights
+
+- Developed a patented OCR-based check-processing solution achieving approximately 98% accuracy and saving $300K annually.
+- Built enterprise developer platforms and software governance tools using TypeScript, React, Node.js, and cloud-native technologies.
+- Helped bring innovative projects from prototype to production, including solutions subsequently released as open source through FINOS.
+- Inventor on four patent applications, including innovations in computer vision and document processing.
+
 ### Open Source & Projects
 
 - **[fin-ocr](https://github.com/finos/fin-ocr)** - Open-source OCR and check-processing project
