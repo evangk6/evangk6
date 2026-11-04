@@ -1,10 +1,8 @@
 # Evan Kountouris
 
-Principal Software Engineer focused on building scalable applications, cloud platforms, and developer-focused tools.
+Principal Software Engineer with 10+ years of experience designing and building enterprise applications, distributed systems, and developer platforms.
 
-I have 10+ years of experience solving complex software engineering problems across enterprise applications, cloud-native systems, distributed services, and developer platforms. My background includes **Java, Python, TypeScript, React, AWS, Kubernetes, Docker, and OpenShift**.
-
-I enjoy working on challenging problems, learning new technologies, and building software that has a meaningful impact.
+I enjoy solving challenging technical problems, exploring new technologies, contributing to open source, and turning innovative ideas into production-ready software.
 
 ### Selected Highlights
 - Developed a patented OCR-based check-processing solution achieving approximately 98% accuracy, saving $300K annually, and becoming an enterprise standard.
