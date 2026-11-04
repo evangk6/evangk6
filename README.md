@@ -22,8 +22,10 @@ I enjoy working on challenging problems, learning new technologies, and building
 
 ### Technologies
 
-**Languages:** Java, Python, TypeScript, JavaScript, Go  
-**Frontend:** React  
-**Backend:** Spring, Spring Boot, REST APIs, Microservices  
-**Cloud & Infrastructure:** AWS, Kubernetes, Docker, OpenShift  
-**Engineering:** Distributed Systems, System Design, CI/CD, DevOps, Software Architecture
+**Languages:** Python, TypeScript, JavaScript, Java, Go
+**Frontend:** React, Angular, HTML, CSS
+**Backend:** Node.js, NestJS, Spring Boot, REST APIs, GraphQL, Microservices
+**Data & Messaging:** PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, Elasticsearch
+**Cloud & Infrastructure:** AWS, Kubernetes, Docker, OpenShift
+**DevOps & Tooling:** Jenkins, GitHub Actions, GitLab, CI/CD, Datadog, CloudWatch
+**Engineering:** Distributed Systems, System Design, Software Architecture, Developer Platforms, Observability, Software Governance
